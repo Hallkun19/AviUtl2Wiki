@@ -23,7 +23,6 @@ theme:
     - navigation.tabs
   custom_dir: overrides
 
-
 nav:
   - ホーム: index.md
   - はじめに:
@@ -40,12 +39,10 @@ nav:
     - 拡張子ごとの機能差: script_dev/how_to_sdk_extension.md
     - 開発環境の作成: script_dev/how_to_sdk_dev_env.md
 
-
   - よくある質問: 
     - よくある質問: faq.md
     - エラーコード: error_code.md
     - AviUtlとの違い: aviutl_diff.md
-
 
 markdown_extensions:
   - attr_list
