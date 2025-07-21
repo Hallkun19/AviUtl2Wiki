@@ -35,6 +35,11 @@ nav:
     - 利用できるもの一覧: scripts.md
     - 投稿フォーム: script_post.md
 
+  - スクリプト開発について:
+    - SDKの利用方法: script_dev/sdk_usage.md
+    - 拡張子ごとの機能差: script_dev/sdk_extension.md
+
+
   - よくある質問: 
     - よくある質問: faq.md
     - エラーコード: error_code.md
