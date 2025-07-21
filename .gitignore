@@ -1,1 +1,3 @@
 site/
+# VSCode拡張設定をGit対象外に
+.vscode/extensions.json
