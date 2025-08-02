@@ -40,9 +40,9 @@ nav:
       - 開発環境の作成: contents/contents_script_dev/how_to_sdk_dev_env.md
 
   - よくある質問:
-      - よくある質問: faq.md
-      - エラーコード: error_code.md
-      - AviUtlとの違い: aviutl_diff.md
+      - よくある質問: contents/contents_faq/faq.md
+      - エラーコード: contents/contents_faq/error_code.md
+      - AviUtlとの違い: contents/contents_faq/aviutl_diff.md
 
 markdown_extensions:
   - attr_list
