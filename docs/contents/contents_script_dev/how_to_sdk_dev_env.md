@@ -60,9 +60,9 @@ winget install --id MSYS2.MSYS2 -e
 
 次にMSYS2を実行します
 
-![MSYS2_1](../img/how_to_sdk_dev_env/1.png)
+![MSYS2_1](../../img/contents_script_dev/1.png)
 
-![MSYS2_2](../img/how_to_sdk_dev_env/2.png)
+![MSYS2_2](../../img/contents_script_dev/2.png)
 
 このshell上で以下のコマンドを入力してください
 
@@ -74,7 +74,7 @@ pacman -S mingw-w64-x86_64-gcc
 
 ## コンパイラの環境変数を通す
 
-![環境変数](../img/how_to_sdk_dev_env/3.png)
+![環境変数](../../img/contents_script_dev/3.png)
 
 赤枠のように設定し、再度ターミナルを開き直して、
 
@@ -84,7 +84,7 @@ gcc --version
 
 と入力して、バージョンが表示されたら、インストール完了です。
 
-![gcc](../img/how_to_sdk_dev_env/4.png)
+![gcc](../../img/contents_script_dev/4.png)
 
 ## ビルド用のjsonファイルを定義
 

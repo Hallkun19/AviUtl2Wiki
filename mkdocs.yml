@@ -26,23 +26,23 @@ theme:
 nav:
   - ホーム: index.md
   - はじめに:
-    - 導入方法: how_to_install.md
-    - 基本的な使い方: how_to_use.md
+      - 導入方法: contents/contents_how_to_install/how_to_install.md
+      - 基本的な使い方: contents/contents_how_to_install/how_to_use.md
 
-  - スクリプト / プラグイン: 
-    - 導入方法: how_to_install_script.md
-    - 利用できるもの一覧: scripts.md
-    - 投稿フォーム: script_post.md
+  - スクリプト / プラグイン:
+      - 導入方法: contents/contents_script_and_plugin/how_to_install_script.md
+      - 利用できるもの一覧: contents/contents_script_and_plugin/scripts.md
+      - 投稿フォーム: contents/contents_script_and_plugin/script_post.md
 
   - スクリプト開発について:
-    - SDKの利用方法: script_dev/sdk_usage.md
-    - 拡張子ごとの機能差: script_dev/how_to_sdk_extension.md
-    - 開発環境の作成: script_dev/how_to_sdk_dev_env.md
+      - SDKの利用方法: contents/contents_script_dev/sdk_usage.md
+      - 拡張子ごとの機能差: contents/contents_script_dev/how_to_sdk_extension.md
+      - 開発環境の作成: contents/contents_script_dev/how_to_sdk_dev_env.md
 
-  - よくある質問: 
-    - よくある質問: faq.md
-    - エラーコード: error_code.md
-    - AviUtlとの違い: aviutl_diff.md
+  - よくある質問:
+      - よくある質問: contents/contents_faq/faq.md
+      - エラーコード: contents/contents_faq/error_code.md
+      - AviUtlとの違い: contents/contents_faq/aviutl_diff.md
 
 markdown_extensions:
   - attr_list
