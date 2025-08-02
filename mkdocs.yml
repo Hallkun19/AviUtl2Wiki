@@ -26,8 +26,8 @@ theme:
 nav:
   - ホーム: index.md
   - はじめに:
-      - 導入方法: how_to_install.md
-      - 基本的な使い方: how_to_use.md
+      - 導入方法: contents/contents_how_to_install/how_to_install.md
+      - 基本的な使い方: contents/contents_how_to_install/how_to_use.md
 
   - スクリプト / プラグイン:
       - 導入方法: how_to_install_script.md
