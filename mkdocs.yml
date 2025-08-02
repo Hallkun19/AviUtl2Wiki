@@ -30,9 +30,9 @@ nav:
       - 基本的な使い方: contents/contents_how_to_install/how_to_use.md
 
   - スクリプト / プラグイン:
-      - 導入方法: how_to_install_script.md
-      - 利用できるもの一覧: scripts.md
-      - 投稿フォーム: script_post.md
+      - 導入方法: contents/contents_script_and_plugin/how_to_install_script.md
+      - 利用できるもの一覧: contents/contents_script_and_plugin/scripts.md
+      - 投稿フォーム: contents/contents_script_and_plugin/script_post.md
 
   - スクリプト開発について:
       - SDKの利用方法: contents/contents_script_dev/sdk_usage.md
